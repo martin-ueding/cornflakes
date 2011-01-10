@@ -1,7 +1,3 @@
-package de.martin_ueding.spiel.cornflakes;
-
-// Copyright (c) 2009 Martin Ueding [mu@martin-ueding.de]
-
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Image;
@@ -16,8 +12,6 @@ import javax.swing.JPanel;
 
 /**
  * Diese Klasse stellt die Cornflakes dar.
- *
- * Copyright: Martin Ueding
  */
 
 public class Feld extends JPanel {

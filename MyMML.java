@@ -1,14 +1,8 @@
-package de.martin_ueding.spiel.cornflakes;
-
-// Copyright (c) 2009 Martin Ueding [mu@martin-ueding.de]
-
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseMotionListener;
 
 /**
  * Setzt die interne Mausposition auf die aktuelle.
- *
- * Copyright: Martin Ueding ;-)
  */
 
 public class MyMML implements MouseMotionListener {

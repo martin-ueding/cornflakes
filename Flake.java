@@ -1,14 +1,8 @@
-package de.martin_ueding.spiel.cornflakes;
-
-// Copyright (c) 2009 Martin Ueding [mu@martin-ueding.de]
-
 /**
  * Dies stellt ein Flakes aus der Packung dar.
  * Es besitzt Eigenschaften wie Position und Geschwindigkeit.
  *
  * Außerdem Methoden zur selbststaendigen Bewegung.
- *
- * Copyright: Martin Ueding
  */
 
 public class Flake {

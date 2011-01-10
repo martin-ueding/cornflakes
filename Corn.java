@@ -1,7 +1,3 @@
-package de.martin_ueding.spiel.cornflakes;
-
-// Copyright (c) 2009 Martin Ueding [mu@martin-ueding.de]
-
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
@@ -21,8 +17,6 @@ import java.awt.event.MouseWheelListener;
  * Dieses Programm simuliert eine Packung Cornflakes, die sich in der
  * Schwerelosigkeit befinden.
  * Ein Schuss darauf wirbelt alles durcheinander.
- *
- * Copyright: Martin Ueding
  */
 
 public class Corn {
