@@ -1,4 +1,4 @@
-// Copyright (c) 2010 Martin Ueding <dev@martin-ueding.de>
+// Copyright (c) Martin Ueding <dev@martin-ueding.de>
 
 /**
  * Dies stellt ein Flakes aus der Packung dar.
