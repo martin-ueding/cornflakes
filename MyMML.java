@@ -1,3 +1,5 @@
+// Copyright (c) 2010 Martin Ueding <dev@martin-ueding.de>
+
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseMotionListener;
 

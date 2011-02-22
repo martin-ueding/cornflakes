@@ -1,3 +1,5 @@
+// Copyright (c) 2010 Martin Ueding <dev@martin-ueding.de>
+
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
