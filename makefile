@@ -5,3 +5,6 @@ cornflakes.jar: Corn.class pic
 
 Corn.class: *.java
 	javac Corn.java
+
+clean:
+	rm -rf *.class *.jar
